@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mderemus
 - 👀 I’m interested in Angular and other front-end technologies
-- 🌱 I’m currently learning C# and multi-threaded applications
+- 🌱 I’m currently learning how to make chrome extensions with Angular
 - 💞️ I’m looking to collaborate on front-end projects with established APIs
 - 📫 How to reach me here 
 
